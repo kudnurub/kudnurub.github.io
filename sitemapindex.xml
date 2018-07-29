@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>http://burunduk.space/categories/cat_bazovye-algoritmy.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/categories/divide-and-conquer.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/en/categories/cat_bazovye-algoritmy.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/en/categories/divide-and-conquer.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/en/galleries/rss.xml</loc>
+  <lastmod>2018-07-29T13:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/en/rss.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/galleries/rss.xml</loc>
+  <lastmod>2018-07-29T13:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/rss.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://burunduk.space/sitemap.xml</loc>
+  <lastmod>2018-07-29T14:53:00Z</lastmod>
+ </sitemap>
+</sitemapindex>

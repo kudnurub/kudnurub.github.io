@@ -1,0 +1,14 @@
+#+BEGIN_COMMENT
+.. title: Number of Inversions
+.. slug: number-of-inversions
+.. date: 2018-07-29 17:00:40 UTC+03:00
+.. tags: divide and conquer
+.. category: базовые алгоритмы
+.. link: 
+.. description: 
+.. type: text
+.. author: burunduk
+#+END_COMMENT
+
+
+Создайте Вашу запись здесь.

@@ -1,0 +1,4 @@
+Sitemap: http://burunduk.space/sitemapindex.xml
+
+User-Agent: *
+Host: burunduk.space
