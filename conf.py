@@ -1364,3 +1364,9 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+### BEGIN ORG-MODE CONF ###
+COMPILERS["orgmode"] = ('.org',)
+POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
+PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
+### END ORG-MODE CONF ###
